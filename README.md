@@ -1,4 +1,4 @@
-# RPi_FloTracks
+# Arduino_FloTracks
 This repository contains files relating to the development of an intelligent toy that teaches children the fundamentals
 of flowchart design. <br /> This work is being conducted as part of the Graphics Research Group at **Western Connecticut State University (WCSU)**. 
 
