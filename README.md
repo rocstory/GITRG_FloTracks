@@ -1,6 +1,6 @@
-# RPi_MoCap
+# RPi_FloTracks
 This repository contains files relating to the development of an intelligent toy that teaches children the fundamentals
-of logical statements. <br /> This work is being conducted as part of the Graphics Research Group at **Western Connecticut State University (WCSU)**. 
+of flowchart design. <br /> This work is being conducted as part of the Graphics Research Group at **Western Connecticut State University (WCSU)**. 
 
 ## Team Members
 
@@ -14,15 +14,14 @@ The goal of this project is to design a cost-effective intelligent toy that capt
 This project currently uses an Arduino Nano and several RGB LEDs in each track for both delivery and deployment.
 
 ## History
-The initial work on the project was done during 2020, utilizing Git to maintain the files needed to develop this project.
+The initial work on the project was done during Summer 2020, utilizing Git to maintain the files needed to develop this project.
 
 ## Issues 
 - Supplying power from one track to the other.
 - Sending data from one track to the other with hard contact (without the use of wireless or bluetooth connection).
 
-
 ## 1 Overview
-Flow Tracks is an affordable intelligent toy that teaches children the fundamentals of logical statements.
+FloTracks is an affordable intelligent toy that teaches children the fundamentals of flowchart design.
 
 ## 2 Requirements and Dependencies
 
