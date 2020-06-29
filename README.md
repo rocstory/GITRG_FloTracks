@@ -1,6 +1,6 @@
 # Arduino_FloTracks
 This repository contains files relating to the development of an intelligent toy that teaches children the fundamentals
-of flowchart design. <br /> This work is being conducted as part of the Graphics Research Group at **Western Connecticut State University (WCSU)**. 
+of flowchart design. <br /> This work is being conducted as part of the Graphics & Interactive Techniques Research Group at **Western Connecticut State University (WCSU)**. 
 
 ## Team Members
 
@@ -10,7 +10,7 @@ of flowchart design. <br /> This work is being conducted as part of the Graphics
     - Michael Del Re
 
 ## Description
-The goal of this project is to design a cost-effective intelligent toy that captures the process of logical statements.
+The goal of this project is to design a cost-effective intelligent toy that captures the process of flowchart design.
 This project currently uses an Arduino Nano and several RGB LEDs in each track for both delivery and deployment.
 
 ## History
@@ -29,9 +29,9 @@ FloTracks is an affordable intelligent toy that teaches children the fundamental
 - Arduino Nano
 
 ### 2.2 Software
-- 
+- None
 ### 2.3 Casing
-- Cases were designed using FreeCad and OpenScad
+- Cases were designed using FreeCAD and OpenSCAD
 
 ### 2.4 Miscellaneous
 - RGB LEDs
